@@ -1,3 +1,31 @@
+## Overview
+The React Movie App is a simple and interactive movie search application built with React.js. This app allows users to search for movies and view detailed information such as titles, release years, plot summaries, ratings, and more. The data is fetched from the [OMDb API](http://www.omdbapi.com/), providing real-time movie information.
+
+## Features
+- **Movie Search:** Users can search for movies by title.
+- **Responsive Design:** The app is fully responsive and works seamlessly on both desktop and mobile devices.
+- **Real-Time Data:** The app fetches movie data in real-time from the OMDb API.
+- **Loading Indicator:** Displays a loading spinner while the app fetches movie data.
+
+## Technologies Used
+- **React.js:** For building the user interface and managing state.
+- **OMDb API:** For retrieving movie data such as titles, plots, ratings, etc.
+- **Fetch API:** For making HTTP requests to the OMDb API.
+- **CSS:** For styling the app and making it visually appealing.
+- **JavaScript ES6:** For building application logic and functionality.
+
+## How to Run the Project
+
+### Prerequisites
+Before you begin, ensure you have the following installed on your machine:
+- [Node.js](https://nodejs.org/) (version 14 or higher)
+- [npm](https://www.npmjs.com/) (comes with Node.js)
+
+### Steps
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/your-username/react-movie-app.git
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
